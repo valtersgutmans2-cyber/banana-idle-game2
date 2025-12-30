@@ -33,3 +33,12 @@ body {
     color: gray;
     margin-top: 10px;
 }
+#header-text {
+    text-align: center;      /* Center the text */
+    font-size: 28px;         /* Make it bigger */
+    color: darkorange;       /* Text color */
+    margin-top: 20px;        /* Space from top */
+    margin-bottom: 20px;     /* Space before the game */
+    font-family: Arial, sans-serif;  /* Font style */
+}
+
